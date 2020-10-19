@@ -1,0 +1,66 @@
+.big-banner{
+    background-image: url(../../html/img/background-contact.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 100px;
+    padding-bottom: 300px;
+}
+
+.header-site{
+
+    background-image: url(../../html/img/background/tower.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+
+}
+
+.containt-site{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.containt-site2{
+    background-image: url(../../html/img/background/walktalkie.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
+
+.containt-site3{
+    background-image: url(../../html/img/background/landscape-01.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
+
+.header-site-roip{
+    background-image: url(../../html/img/background/thumb-smartphone.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
